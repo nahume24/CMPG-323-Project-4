@@ -1,9 +1,13 @@
 # CMPG-323-Project-4-32210310
 ![rpa-graphic-1](https://user-images.githubusercontent.com/38375869/193237238-e16325f2-7d00-498c-b4c1-b0b8cfcef99b.jpeg)
 # About Project 
+This project focuess on Testing and Robotic Process Automation(RPA). Testing is an essential component of the any system and may be handled out from a range of angles, namely corporate design team testing and business user validation testing.For demostration of testing wwe will be using Uipath Studio. RPA entails the use of technology to duplicate human tasks in a manner similar to how an individual would carry out a function.
 
-
- # stakeholders will use the project
+ # Stakeholders will use the project
+ Will use the credials to login:
+ username:
+ password:Nahume123!
+ 
  
  # Referencing
 - Harika Mudiam. 2022. How to connect UiPath Project To Github how to commit and push changes to github. https://www.youtube.com/watch?v=x8eLpoyB3Uo Date of access: 30 September 2022
