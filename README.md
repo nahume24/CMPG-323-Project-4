@@ -1,7 +1,7 @@
 # CMPG-323-Project-4-32210310
 ![rpa-graphic-1](https://user-images.githubusercontent.com/38375869/193237238-e16325f2-7d00-498c-b4c1-b0b8cfcef99b.jpeg)
 # About Project 
-This project focuses on Testing and Robotic Process Automation (RPA). Testing is an essential component of the any system and may be handled out from a range of angles, namely corporate design team testing and business user validation testing. For demonstration of testing we will be using UiPath Studio. RPA entails the use of technology to duplicate human tasks in a manner similar to how an individual would carry out a function. We will use the hosted https://connectedoffice-devicemanagement.azurewebsites.net/ to demonstrate the testing. For demonstration of the Automation I was using The Microsoft Edge. The robotic will read from an excel spread sheet then type the information to the database on the Web Apllication.
+This project focuses on Testing and Robotic Process Automation (RPA). Testing is an essential component of the any system and may be handled out from a range of angles, namely corporate design team testing and business user validation testing. For demonstration of testing we will be using UiPath Studio. RPA entails the use of technology to duplicate human tasks in a manner similar to how an individual would carry out a function. The robot will be hosted on UiPath Orchestrator.We will use the hosted https://connectedoffice-devicemanagement.azurewebsites.net/ to demonstrate the testing. For demonstration of the Automation I was using The Microsoft Edge. The robotic will read from an excel spread sheet then type the information to the database on the Web Apllication.The robot will be able to edit/update the data testResults sheet to record for the changed it has run/Automated.
 
  # Stakeholders will use the project
 The user can use the credential below to login or register as a new user 
@@ -63,3 +63,4 @@ issues#:~:text=Select%20Home%20(Studio%20Backstage%20View,Repair%20Tool%20for%20
 
 - UiPathForum. 2022. Read Range:The process cannot the file ”” because it is being used by another process. https://forum.uipath.com/t/read-range-the-process-cannot-access-the-file-because-it-is-being-used-by-another-process/226335  Date of access: 27 October 2022
 - UiPathForum.  2022. Write Cell:The process cannot access the file because it is being used by another process. https://forum.uipath.com/t/write-cell-the-process-cannot-access-the-file-because-it-is-being-used-by-another-process/212331 Date of access: 27 October 2022
+
